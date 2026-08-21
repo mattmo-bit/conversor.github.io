@@ -1,4 +1,4 @@
-# Conversor de Monedas Nacional
+# Conversor de Monedas
 
 Este proyecto es una aplicación web interactiva desarrollada en JavaScript que permite calcular la conversión de un monto en Pesos Chilenos (CLP) a distintas monedas e indicadores económicos (Dólar, Euro, UF) consultando la API en tiempo real de mindicador.cl. Además, renderiza un gráfico interactivo con el historial de la moneda seleccionada durante los últimos 10 días.
 
